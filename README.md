@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="https://dribbble.com/shots/15667364/attachments/7462247?mode=media" />
+</p>
 <h1 align="center">Hi 👋, my self ✨Raj Saha ~(Morbius00)</h1>
 <h3 align="center">Welcome to my GITHUB ✨... I'm a passionate coder👨‍💻 from India(🇮🇳) & currently I am a 1st year undergrad 🏛️ of CSE(AI&ML).I believed “ In order to be irreplaceable, one must always be different”😎.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00" alt="morbius00" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15648952-Computer-work/attachments/7441717?mode=media"><img/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 <p align="left"> <a href="https://twitter.com/rajsaha" target="blank"><img src="https://img.shields.io/twitter/follow/rajsaha?logo=twitter&style=for-the-badge" alt="rajsaha" /></a> </p>
 
 - 🔭 I’m currently working on [Hack for Bengal](https://kodepirate.github.io/Eclipse-Academy/)
