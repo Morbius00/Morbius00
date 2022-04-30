@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </p>
 <h2 <img src="![image](https://user-images.githubusercontent.com/102956488/163682077-7138fe6f-4777-4c73-98cf-67281125d0cf.png)
 "/img>🏆My Github Trophies🏆</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00" alt="morbius00" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 <p align="left"> <a href="https://twitter.com/_Raj_official0?t=JsugwSxS6hoz1ZxUfMVXqA&s=09"><img src="https://img.shields.io/twitter/follow/rajsaha?logo=twitter&style=for-the-badge" alt="_Raj_official0" /></a> </p>
 
