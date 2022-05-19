@@ -11,13 +11,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 <p align="left"> <a href="https://twitter.com/_Raj_official0?t=JsugwSxS6hoz1ZxUfMVXqA&s=09"><img src="https://img.shields.io/twitter/follow/rajsaha?logo=twitter&style=for-the-badge" alt="_Raj_official0" /></a> </p>
 
-- 🔭 I’m currently working on [Hack for Bengal](https://kodepirate.github.io/Eclipse-Academy/)
+- 🔭 I’m currently working on [Web Devlopment]
 
 - 🌱 I’m currently learning **Blockchains**
 
 - 👯 I’m looking to collaborate on **more Open-source projects👨‍💻💻 <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Morbius00](https://github.com/Morbius00)
+- 👨‍💻 All of my projects are available at [https://morbius00.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Tech related💻**
 
