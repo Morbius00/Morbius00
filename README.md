@@ -1,7 +1,7 @@
 <p align="center">
   <img  width="500" src="https://cdn.dribbble.com/users/3622080/screenshots/15648952/media/e11ca617ad5b2da061ec8367cb9a5f56.gif" />
 </p>
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="12px" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
 <h3 align="center">Welcome to my GITHUB ✨... I'm a passionate coder👨‍💻 from India(🇮🇳) & currently I am a 1st year undergrad 🏛️ of CSE(AI&ML).I believed “ In order to be irreplaceable, one must always be different”😎.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </p>
