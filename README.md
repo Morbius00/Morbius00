@@ -2,14 +2,19 @@
   <img  width="500" src="https://cdn.dribbble.com/users/3622080/screenshots/15648952/media/e11ca617ad5b2da061ec8367cb9a5f56.gif" />
 </p>
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
-<h3 align="center">Welcome to my GITHUB ✨... I'm a passionate coder👨‍💻 from India(🇮🇳) & currently I am a 1st year undergrad 🏛️ of CSE(AI&ML).I believed “ In order to be irreplaceable, one must always be different”😎.</h3>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=056608&size=25&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+web+developer" /></a>
+</p>
+<h3 align="center">✨Hey I'm a passionate coder👨‍💻 from India(🇮🇳) & currently I am a 1st year undergrad 🏛️ of CSE(AI&ML).I believed “ In order to be irreplaceable, one must always be different”😎.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </p>
 <h2 <img src="![image](https://user-images.githubusercontent.com/102956488/163682077-7138fe6f-4777-4c73-98cf-67281125d0cf.png)
 "/img>🏆My Github Trophies🏆</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 <p align="left"> <a href="https://twitter.com/_Raj_official0?t=JsugwSxS6hoz1ZxUfMVXqA&s=09"><img src="https://img.shields.io/twitter/follow/rajsaha?logo=twitter&style=for-the-badge" alt="_Raj_official0" /></a> </p>
+
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on [Web Devlopment]
 
@@ -49,6 +54,8 @@
 <img align="center"  alt="Raj's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morbius00&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 
 <!--<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morbius00&layout=compact"> --> 
-<img src="https://activity-graph.herokuapp.com/graph?username=Morbius00&theme=redical&hide_border=true&area=true">
+<img align="center" width="75%" src="https://activity-graph.herokuapp.com/graph?username=Morbius00&theme=redical&hide_border=true&area=true">
 <hr>
 
+### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+![Contribution grid snake animation](https://raw.githubusercontent.com/codergirl-al/codergirl-al/output/github-contribution-grid-snake.svg)
