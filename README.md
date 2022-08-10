@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=056608&size=25&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+web+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FF00&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+web+developer" /></a>
 </p>
 <h3 align="center">✨Hey I'm a passionate coder👨‍💻 from India(🇮🇳) & currently I am a 1st year undergrad 🏛️ of CSE(AI&ML).I believed “ In order to be irreplaceable, one must always be different”😎.</h3>
 
@@ -52,9 +52,11 @@
 <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Morbius00&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center"  alt="Raj's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morbius00&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 
-<!--<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morbius00&layout=compact"> --> 
-<img align="center" width="75%" src="https://activity-graph.herokuapp.com/graph?username=Morbius00&theme=redical&hide_border=true&area=true">
-<hr>
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morbius00&layout=compact"> --> 
+<img align="center" width="85%" src="https://activity-graph.herokuapp.com/graph?username=Morbius00&theme=react-dark">
+
+
+
 
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 ![Contribution grid snake animation](https://raw.githubusercontent.com/codergirl-al/codergirl-al/output/github-contribution-grid-snake.svg)
