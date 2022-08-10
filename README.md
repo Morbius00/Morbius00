@@ -1,4 +1,4 @@
-<a href="https://mahiwattamwar.github.io/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" height="175px"/></a>
+<a href="https://mahiwattamwar.github.io/"><img width="100%" height="410rem" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
 <p align="center">
@@ -6,18 +6,18 @@
 </p>
 <h3 align="center">✨Hey I'm a passionate coder👨‍💻 from India(🇮🇳) & currently I am a 1st year undergrad 🏛️ of CSE(AI&ML).I believed “ In order to be irreplaceable, one must always be different”😎.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </p>
 <h2  align="center" <img src="![image](https://user-images.githubusercontent.com/102956488/163682077-7138fe6f-4777-4c73-98cf-67281125d0cf.png)
 "/img>🏆My Github Trophies🏆</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> </p>
-<img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/3622080/screenshots/15648952/media/e11ca617ad5b2da061ec8367cb9a5f56.gif"  />
+<img align="right" alt="Coding"  width="400" src="https://movedigitals.com/wp-content/uploads/2021/12/website-development-bhubaneswar.gif"  />
 
 
 **<h2>Talking about Personal Stuffs: 💁‍♂️</h2>**
 
-- 🔭 I’m currently working on [Web Devlopment]
+- 🔭 I’m currently working as a **Front-End Developer**
 
-- 🌱 I’m currently learning **Blockchains**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **more Open-source projects👨‍💻💻 <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">**
 
@@ -47,15 +47,18 @@
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img  </p>
 <h3 <g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> My GITHUB Status :</h3>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Morbius00&show_icons=true&theme=radical">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Morbius00&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morbius00&theme=algolia&layout=compact" />
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Morbius00&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+</p>
 
-<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Morbius00&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center"  alt="Raj's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morbius00&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morbius00&layout=compact"> --> 
-<img align="center" width="85%" src="https://activity-graph.herokuapp.com/graph?username=Morbius00&theme=react-dark">
 
 
+<br>
+
+[![Morbius00's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Morbius00&bg_color=0D1117&color=00FF00&line=FFFF00&point=FFFFFF&hide_border=true)](https://github.com/Rajdip019)
 
 
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
