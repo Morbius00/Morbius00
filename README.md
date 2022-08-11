@@ -1,10 +1,10 @@
-<a href="https://mahiwattamwar.github.io/"><img width="100%" height="410rem" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/></a>
+<a href="https://mahiwattamwar.github.io/"><img width="100%" height="400rem" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FF00&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+web+developer" /></a>
 </p>
-<h3 align="center">✨Hey I'm a passionate coder👨‍💻 from India(🇮🇳) & currently I am a 1st year undergrad 🏛️ of CSE(AI&ML).I believed “ In order to be irreplaceable, one must always be different”😎.</h3>
+<h3 align="center">✨Hey I'm a passionate coder👨‍💻 from India(🇮🇳) & currently I am a undergrad 🏛️ of CSE(AI&ML).I believed “ In order to be irreplaceable, one must always be different”😎.</h3>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </p>
 <h2  align="center" <img src="![image](https://user-images.githubusercontent.com/102956488/163682077-7138fe6f-4777-4c73-98cf-67281125d0cf.png)
