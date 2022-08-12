@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="400rem" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="175px"/></a>
+<img align="center" width="100%" height="400rem" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
 <p align="center">
