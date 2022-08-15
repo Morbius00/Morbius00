@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="400rem" src="https://animesher.com/orig/0/79/799/7994/animesher.com_anime-boy-nine-computer-799422.gif" />
+<img align="center" width="100%" height="400rem" src="https://github.com/Morbius00/Morbius00/blob/main/image/animesher.com_anime-boy-nine-computer-799422.gif?raw=true" />
 
 <h1 align="center">Hi <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </p>
 <h2  align="center" <img src="![image](https://user-images.githubusercontent.com/102956488/163682077-7138fe6f-4777-4c73-98cf-67281125d0cf.png)
-"/img>🏆My Github Trophies🏆</h2>
+"/img><img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> My Github Trophies <img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> </p>
 <img align="right" alt="Coding"  width="390" src="https://c.tenor.com/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif"  />
 
