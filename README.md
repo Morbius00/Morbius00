@@ -1,6 +1,6 @@
-<img align="center" width="100%" height="400rem" src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif" />
+<img align="center" width="100%" height="400rem" src="https://animesher.com/orig/0/79/799/7994/animesher.com_anime-boy-nine-computer-799422.gif" />
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
+<h1 align="center">Hi <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FF00&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+web+developer" /></a>
 </p>
