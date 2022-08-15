@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="400rem" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<img align="center" width="100%" height="400rem" src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif" />
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
 <p align="center">
@@ -10,7 +10,7 @@
 <h2  align="center" <img src="![image](https://user-images.githubusercontent.com/102956488/163682077-7138fe6f-4777-4c73-98cf-67281125d0cf.png)
 "/img>🏆My Github Trophies🏆</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> </p>
-<img align="right" alt="Coding"  width="370" src="https://movedigitals.com/wp-content/uploads/2021/12/website-development-bhubaneswar.gif"  />
+<img align="right" alt="Coding"  width="390" src="https://c.tenor.com/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif"  />
 
 
 **<h2>Talking about Personal Stuffs: 💁‍♂️</h2>**
