@@ -14,10 +14,10 @@
 <h2  align="center" <img src="![image](https://user-images.githubusercontent.com/102956488/163682077-7138fe6f-4777-4c73-98cf-67281125d0cf.png)
 "/img><img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> 𝑀𝓎 𝒢𝒾𝓉𝒽𝓊𝒷 𝒯𝓇☯𝓅𝒽𝒾𝑒𝓈 <img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> </p>
-<img align="right" alt="Coding"  width="390" src="https://github.com/Morbius00/Morbius00/blob/main/image/tenor.gif?raw=true"/>
+<img align="right" alt="Coding"  width="490" src="https://github.com/Morbius00/Morbius00/blob/main/image/tenor.gif?raw=true"/>
 
 
-**<h2>(っ◔◡◔)っ𝓣𝓪𝓵𝓴𝓲𝓷𝓰 𝓪𝓫𝓸𝓾𝓽 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓢𝓽𝓾𝓯𝓯𝓼: <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-tipping-hand_1f481-200d-2642-fe0f.png" width="38"/></h2>**
+**<h2>𝓣𝓪𝓵𝓴𝓲𝓷𝓰 𝓪𝓫𝓸𝓾𝓽 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓢𝓽𝓾𝓯𝓯𝓼: <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-tipping-hand_1f481-200d-2642-fe0f.png" width="38"/></h2>**
 <hr>
 
 - 🔭 I’m currently working as a **Front-End Developer**
