@@ -1,19 +1,24 @@
-<img align="center" width="100%" height="400rem" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif" />
 
-<h1 align="center">Hi <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="43" style="max-width: 100%;"> my self ✨Raj Saha ~(Morbius00)</h1>
+<div align="center">
+<img src="https://38.media.tumblr.com/3a77a8e4e1332348d3761d20e83776bd/tumblr_nd5h91ToSz1rmmzqko1_500.gif">
+</div>
+<br>
+
+<h1 align="center">🅷🅸 <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="43" style="max-width: 100%;"> 🅼🆈🆂🅴🅻🅵 ✨🆁🅰🅹 🆂🅰🅷🅰 ~🅼🅾🆁🅱🅸🆄🆂[̲̅0][̲̅0])</h1>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FF00&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+web+developer" /></a>
 </p>
-<h3 align="center">✨Hey I'm a passionate coder👨‍💻 from India(🇮🇳) & currently I am a undergrad 🏛️ of CSE(AI&ML).I believed “ In order to be irreplaceable, one must always be different”😎.</h3>
+<h3 align="center">✨ℍ𝕖𝕪 𝕀'𝕞 𝕒 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕔𝕠𝕕𝕖𝕣👨‍💻 𝕗𝕣𝕠𝕞 𝕀𝕟𝕕𝕚𝕒(🇮🇳) & 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕀 𝕒𝕞 𝕒 𝕦𝕟𝕕𝕖𝕣𝕘𝕣𝕒𝕕 🏛️ 𝕠𝕗 ℂ𝕊𝔼(𝔸𝕀&𝕄𝕃).𝕀 𝕓𝕖𝕝𝕚𝕖𝕧𝕖𝕕 “ 𝕀𝕟 𝕠𝕣𝕕𝕖𝕣 𝕥𝕠 𝕓𝕖 𝕚𝕣𝕣𝕖𝕡𝕝𝕒𝕔𝕖𝕒𝕓𝕝𝕖, 𝕠𝕟𝕖 𝕞𝕦𝕤𝕥 𝕒𝕝𝕨𝕒𝕪𝕤 𝕓𝕖 𝕕𝕚𝕗𝕗𝕖𝕣𝕖𝕟𝕥”😎.</h3>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </p>
 <h2  align="center" <img src="![image](https://user-images.githubusercontent.com/102956488/163682077-7138fe6f-4777-4c73-98cf-67281125d0cf.png)
-"/img><img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> My Github Trophies <img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> </h2>
+"/img><img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> 𝑀𝓎 𝒢𝒾𝓉𝒽𝓊𝒷 𝒯𝓇☯𝓅𝒽𝒾𝑒𝓈 <img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> </p>
 <img align="right" alt="Coding"  width="390" src="https://c.tenor.com/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif"  />
 
 
-**<h2>Talking about Personal Stuffs: 💁‍♂️</h2>**
+**<h2>(っ◔◡◔)っ𝓣𝓪𝓵𝓴𝓲𝓷𝓰 𝓪𝓫𝓸𝓾𝓽 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓢𝓽𝓾𝓯𝓯𝓼: 💁‍♂️</h2>**
+<hr>
 
 - 🔭 I’m currently working as a **Front-End Developer**
 
@@ -32,9 +37,10 @@
 - ⚡ Fun fact **I love❤️☕Coffee...Don't talk to me before I've had my first morning cup☕**
 
 
-<h3 align="left"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> Connect with me: <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp</h3>
-<p align="left">
-<a href="https://dev.to/raj_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="raj_saha" height="30" width="40" /></a>
+<h3 align="left"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp</h3>
+<hr>
+<p align="left"> 
+<img align="right" height="179" alt="707" src="https://64.media.tumblr.com/161fe8b55c60bc79dd05d7f9be27ee2b/95757ed8e45eba00-03/s640x960/efd98e66df051028b2cb729ffe4f64982c75fb7b.gifv">
 <a href="https://twitter.com/rajsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajsaha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ra jsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ra jsaha" height="30" width="40" /></a>
 <a href="https://fb.com/raj saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raj saha" height="30" width="40" /></a>
@@ -43,9 +49,11 @@
 <a href="https://discord.gg/#7771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7771" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I used : <img src="https://github.com/bartick/bartick/blob/main/images/tech.gif" width="43" style="max-width: 100%;"> </h3>
+<h3 align="left">𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 𝓘 𝓾𝓼𝓮𝓭 : <img src="https://github.com/bartick/bartick/blob/main/images/tech.gif" width="43" style="max-width: 100%;"> </h3>
+<hr>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img  </p>
-<h3 <g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅</g-emoji> My GITHUB Status :</h3>
+
+<h3 <g-emoji class="g-emoji" alias="medal_sports" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c5.png">🏅 𝓜𝔂 𝓖𝓘𝓣𝓗𝓤𝓑 𝓢𝓽𝓪𝓽𝓾𝓼 :</h3>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Morbius00&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
