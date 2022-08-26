@@ -1,12 +1,12 @@
 
 <div align="center">
-<img src="https://38.media.tumblr.com/3a77a8e4e1332348d3761d20e83776bd/tumblr_nd5h91ToSz1rmmzqko1_500.gif">
+<img   width="1000rem" src="https://38.media.tumblr.com/3a77a8e4e1332348d3761d20e83776bd/tumblr_nd5h91ToSz1rmmzqko1_500.gif">
 </div>
 <br>
 
 <h1 align="center">🅷🅸 <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="43" style="max-width: 100%;"> 🅼🆈🆂🅴🅻🅵 ✨🆁🅰🅹 🆂🅰🅷🅰 ~🅼🅾🆁🅱🅸🆄🆂[̲̅0][̲̅0])</h1>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00FF00&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+web+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=08e8de&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+web+developer" /></a>
 </p>
 <h3 align="center">✨ℍ𝕖𝕪 𝕀'𝕞 𝕒 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕔𝕠𝕕𝕖𝕣👨‍💻 𝕗𝕣𝕠𝕞 𝕀𝕟𝕕𝕚𝕒(🇮🇳) & 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕀 𝕒𝕞 𝕒 𝕦𝕟𝕕𝕖𝕣𝕘𝕣𝕒𝕕 🏛️ 𝕠𝕗 ℂ𝕊𝔼(𝔸𝕀&𝕄𝕃).𝕀 𝕓𝕖𝕝𝕚𝕖𝕧𝕖𝕕 “ 𝕀𝕟 𝕠𝕣𝕕𝕖𝕣 𝕥𝕠 𝕓𝕖 𝕚𝕣𝕣𝕖𝕡𝕝𝕒𝕔𝕖𝕒𝕓𝕝𝕖, 𝕠𝕟𝕖 𝕞𝕦𝕤𝕥 𝕒𝕝𝕨𝕒𝕪𝕤 𝕓𝕖 𝕕𝕚𝕗𝕗𝕖𝕣𝕖𝕟𝕥”😎.</h3>
 
@@ -14,10 +14,10 @@
 <h2  align="center" <img src="![image](https://user-images.githubusercontent.com/102956488/163682077-7138fe6f-4777-4c73-98cf-67281125d0cf.png)
 "/img><img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> 𝑀𝓎 𝒢𝒾𝓉𝒽𝓊𝒷 𝒯𝓇☯𝓅𝒽𝒾𝑒𝓈 <img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> </p>
-<img align="right" alt="Coding"  width="390" src="https://c.tenor.com/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif"  />
+<img align="right" alt="Coding"  width="390" src="https://github.com/Morbius00/Morbius00/blob/main/image/tenor.gif?raw=true"/>
 
 
-**<h2>(っ◔◡◔)っ𝓣𝓪𝓵𝓴𝓲𝓷𝓰 𝓪𝓫𝓸𝓾𝓽 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓢𝓽𝓾𝓯𝓯𝓼: 💁‍♂️</h2>**
+**<h2>(っ◔◡◔)っ𝓣𝓪𝓵𝓴𝓲𝓷𝓰 𝓪𝓫𝓸𝓾𝓽 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓢𝓽𝓾𝓯𝓯𝓼: <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-tipping-hand_1f481-200d-2642-fe0f.png" width="38"/></h2>**
 <hr>
 
 - 🔭 I’m currently working as a **Front-End Developer**
@@ -37,7 +37,7 @@
 - ⚡ Fun fact **I love❤️☕Coffee...Don't talk to me before I've had my first morning cup☕**
 
 
-<h3 align="left"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp</h3>
+<h3 align="left"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png"><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/telephone-receiver_1f4de.png" width="38"/></g-emoji> 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp</h3>
 <hr>
 <p align="left"> 
 <img align="right" height="179" alt="707" src="https://64.media.tumblr.com/161fe8b55c60bc79dd05d7f9be27ee2b/95757ed8e45eba00-03/s640x960/efd98e66df051028b2cb729ffe4f64982c75fb7b.gifv">
