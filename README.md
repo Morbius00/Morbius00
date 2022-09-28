@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **more Open-source projects👨‍💻💻 <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle">**
 
-- 👨‍💻 All of my projects are available here <a href="myportfoliorj.netlify.app"><img align="center" src="https://as2.ftcdn.net/v2/jpg/03/70/62/61/1000_F_370626176_2OUQtT1obh2fhHe9xHvUBbMUE7sx1SBt.jpg" alt="raj_saha" height="40" width="70" /></a>
+- 👨‍💻 All of my projects are available here <a href="https://myportfoliorj.netlify.app"><img align="center" src="https://as2.ftcdn.net/v2/jpg/03/70/62/61/1000_F_370626176_2OUQtT1obh2fhHe9xHvUBbMUE7sx1SBt.jpg" alt="raj_saha" height="40" width="70" /></a>
 
 - 💬 Ask me about **Tech related💻**
 
