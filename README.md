@@ -20,7 +20,7 @@
 **<h2>𝓣𝓪𝓵𝓴𝓲𝓷𝓰 𝓪𝓫𝓸𝓾𝓽 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓢𝓽𝓾𝓯𝓯𝓼: <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-tipping-hand_1f481-200d-2642-fe0f.png" width="38"/></h2>**
 <hr>
 
-- 🔭 I’m currently working as a **Front-End Developer**
+- 🔭 I’m currently working as a **Front-End-Developer**
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -87,7 +87,7 @@
 
 ![Picsart_22-10-14_19-00-43-958](https://user-images.githubusercontent.com/102956488/195861731-262adeb0-cd02-4832-95f8-bc74a2d96427.jpg)
 
-### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
+### 🚀🙂 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 ![Contribution grid snake animation](https://raw.githubusercontent.com/codergirl-al/codergirl-al/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Support:</h3>
