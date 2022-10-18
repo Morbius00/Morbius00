@@ -82,7 +82,7 @@
 
 <br>
 <div align="center">
-<h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/party-popper_1f389.png" width="38"/> Hacktober2022 Sorted: <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/party-popper_1f389.png" width="38"/></h2>
+<h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/party-popper_1f389.png" width="38"/> Wohoo! Hacktober2022 Sorted: <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/party-popper_1f389.png" width="38"/></h2>
 </div>
 
 ![Picsart_22-10-14_19-00-43-958](https://user-images.githubusercontent.com/102956488/195861731-262adeb0-cd02-4832-95f8-bc74a2d96427.jpg)
