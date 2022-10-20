@@ -1,6 +1,6 @@
 
 <div align="center">
-<img   width="1000rem" src="https://c.tenor.com/5yUTM6OuaKcAAAAd/itachi-itachi-uchiha.gif" width="10">
+<img   width="1000rem" src="https://github.com/Morbius00/Morbius00/blob/main/image/LinkedIn%20cover%20-%201.png?raw=true" width="10">
 </div>
 <br>
 
