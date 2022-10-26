@@ -4,9 +4,9 @@
 </div>
 <br>
 
-<h1 align="center">🅷🅸 <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="43" style="max-width: 100%;"> 🅼🆈🆂🅴🅻🅵 ✨🆁🅰🅹 🆂🅰🅷🅰 ~🅼🅾🆁🅱🅸🆄🆂[̲̅0][̲̅0])</h1>
+<h1 align="center">𝓗𝓲𝓲 <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="43" style="max-width: 100%;"> 𝓶𝔂 𝓼𝓮𝓵𝓯✨𝓡𝓪𝓳 𝓢𝓪𝓱𝓪 一═デ︻ 𝙈𝙤𝙧𝙗𝙞𝙪𝙨00 ︻デ═一</h1>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=08e8de&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+web+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=08e8de&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+Web+Developer" /></a>
 </p>
 <h3 align="center">✨ℍ𝕖𝕪 𝕀'𝕞 𝕒 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕔𝕠𝕕𝕖𝕣👨‍💻 𝕗𝕣𝕠𝕞 𝕀𝕟𝕕𝕚𝕒(🇮🇳) & 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕀 𝕒𝕞 𝕒 𝕦𝕟𝕕𝕖𝕣𝕘𝕣𝕒𝕕 🏛️ 𝕠𝕗 ℂ𝕊𝔼(𝔸𝕀&𝕄𝕃).𝕀 𝕓𝕖𝕝𝕚𝕖𝕧𝕖𝕕 “ 𝕀𝕟 𝕠𝕣𝕕𝕖𝕣 𝕥𝕠 𝕓𝕖 𝕚𝕣𝕣𝕖𝕡𝕝𝕒𝕔𝕖𝕒𝕓𝕝𝕖, 𝕠𝕟𝕖 𝕞𝕦𝕤𝕥 𝕒𝕝𝕨𝕒𝕪𝕤 𝕓𝕖 𝕕𝕚𝕗𝕗𝕖𝕣𝕖𝕟𝕥”😎.</h3>
 
