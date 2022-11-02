@@ -1,6 +1,6 @@
 
 <div align="center">
-<img   width="1000rem" src="https://github.com/Morbius00/Morbius00/blob/main/image/LinkedIn%20cover%20-%202%20(1).png?raw=true" width="10">
+<img   src="https://repository-images.githubusercontent.com/443620153/e4b08970-8220-43a4-962f-d4db4f378d36" width="70%">
 </div>
 <br>
 
