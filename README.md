@@ -34,7 +34,7 @@
 
 - 📄 Know about my experiences [By experience I find out a short way by a long wandering.]
 
-- ⚡ Fun fact **I love❤️☕Coffee...Don't talk to me before I've had my first morning cup☕**
+- ⚡ My Fun fact **I love❤️☕Coffee...Don't talk to me before I've had my first morning cup☕**
 
 
 <h3 align="left"> <g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png"><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/telephone-receiver_1f4de.png" width="38"/></g-emoji> 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮: <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">&nbsp</h3>
