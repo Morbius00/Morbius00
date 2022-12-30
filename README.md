@@ -20,7 +20,7 @@
 <h2>𝓣𝓪𝓵𝓴𝓲𝓷𝓰 𝓪𝓫𝓸𝓾𝓽 𝓟𝓮𝓻𝓼𝓸𝓷𝓪𝓵 𝓢𝓽𝓾𝓯𝓯𝓼: <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-tipping-hand_1f481-200d-2642-fe0f.png" width="38"/></h2>
 
 
-- 🔭 I’m currently working as a **Front-End-Developer**
+- 🔭 I’m currently working as a **Front-End-Developer **
 
 - 🌱 I’m currently learning **Machine Learning**
 
