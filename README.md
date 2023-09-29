@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<h1 align="center">𝓗𝓲𝓲 <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="43" style="max-width: 100%;"> 𝓶𝔂 𝓼𝓮𝓵𝓯 <img src="https://media.tenor.com/FjvyyCwzuEQAAAAi/pikachu-happy.gif" width="90"/> 𝓡𝓪𝓳 𝓢𝓪𝓱𝓪 一═デ︻ 𝙈𝙤𝙧𝙗𝙞𝙪𝙨00 ︻デ═一</h1>
+<h1 align="center">𝓗𝓲𝓲 <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="43" style="max-width: 100%;"> 𝓶𝔂 𝓼𝓮𝓵𝓯 <img src="https://media.tenor.com/FjvyyCwzuEQAAAAi/pikachu-happy.gif" width="90"/> 𝓡𝓪𝓳 𝓢𝓪𝓱𝓪 - 𝙈𝙤𝙧𝙗𝙞𝙪𝙨00 </h1>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=08e8de&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+Web+Developer" /></a>
 </p>
