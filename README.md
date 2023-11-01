@@ -6,7 +6,17 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=08e8de&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+Web+Developer" /></a>
 </div>
 <br/>
-<div align="Center"> <img src="https://komarev.com/ghpvc/?username=morbius00&label=Profile%20views&color=0e75b6&style=flat" alt="morbius00" /> </div>
+<div align="Center"> <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C"/> </div>
+<br>
+<div align="Center">
+   <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="75" style="max-width: 100%;">  
+<h3>
+  Click Here 👇🏻
+</h3>  
+</div>
+<div  align="center">
+  <a href="https://my-portfolio-rj.vercel.app/"><img draggable="false" src="image/my port folio.png" width="19%"/></a>
+</div>
 <div>
 <h2  align="center">
 <img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;">
