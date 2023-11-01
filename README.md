@@ -6,8 +6,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=08e8de&size=27&lines=Welcome+to+my+GITHUB+Profile!;I'm+a+Enthusiastic+Web+Developer" /></a>
 </div>
 <br/>
-<div align="Center"> <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C"/> </div>
-<br>
+
 <div align="Center">
    <img src="https://github.com/bartick/bartick/blob/main/images/Greetings.gif?raw=true" width="75" style="max-width: 100%;">  
 <h3>
@@ -93,6 +92,8 @@ My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花�
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Morbius00&theme=github_dark" />
 </a>    
 </p>
+<div align="Center"> <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C"/> </div>
+<br>
 <hr>
 </div>
 <div>
