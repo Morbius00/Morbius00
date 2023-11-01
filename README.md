@@ -49,6 +49,7 @@ Hobbies: Painting,watching MCU,coding while I am listening music
 My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花澤香菜 (Hanazawa Kana) || 上坂すみれ (Uesaka Sumire)🎤🎶🎼
 
 ```
+<br>
 <div><h3>Connect with me</h3></div>
 <p align="center"> 
   
@@ -108,6 +109,6 @@ My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花�
 <h1 align="center">Support Me 🎧🎤  </h1>
 
 <p align="center">
-⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
+⠀⠀⠀⠀⠀<img src="image/vocaloidchibi.png">
 </p>
 <p align="center"><a href="https://www.buymeacoffee.com/rajsaha200P?new=1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="morbius00" /></a></p><br><br>
