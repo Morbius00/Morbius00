@@ -73,7 +73,7 @@ My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花�
 </div>
 
 <div>
-  <h3 align="center"><img src="https://media.tenor.com/TjLcdiiOJBsAAAAj/pikachu-wink.gif" width="90" style="max-width: 100%;">🏅 MY 𝓖𝓘𝓣𝓗𝓤𝓑 Status <img src="https://media.tenor.com/TjLcdiiOJBsAAAAj/pikachu-wink.gif" width="90" style="max-width: 100%;"> </h3>
+  <h3 align="center"><img src="https://media.tenor.com/TjLcdiiOJBsAAAAj/pikachu-wink.gif" width="90" style="max-width: 100%;">🏅 MY GitHub Status <img src="https://media.tenor.com/TjLcdiiOJBsAAAAj/pikachu-wink.gif" width="90" style="max-width: 100%;"> </h3>
 
   <p align="center">
   <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
