@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://repository-images.githubusercontent.com/443620153/e4b08970-8220-43a4-962f-d4db4f378d36" width="80%" height="20%">
+<img src="image/tumblr_448f044217fd6432109ca8a407841845_a8569fe2_540.gif" width="80%" height="20%">
 </div>
 <div align="center"><h1> 𝓗𝓲𝓲 𝓶𝔂 𝓼𝓮𝓵𝓯 𝓡𝓪𝓳 𝓢𝓪𝓱𝓪 - 𝙈𝙤𝙧𝙗𝙞𝙪𝙨 </h1></div>
 <div align="center">
@@ -18,15 +18,15 @@
 </div>
 <div>
 <h2  align="center">
-<img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;">
+<img src="image/3337288@0.png" width="43" style="max-width: 100%;">
   𝑀𝓎 Github Tr☯phies 
-<img src="https://github.com/Morbius00/Morbius00/blob/main/image/kisspng-vector-graphics-illustration-man-clip-art-image-image-for-free-man-holding-trophy-vector-character-5be83b2523ce29.9695955815419461491467.png?raw=true" width="43" style="max-width: 100%;"> 
+<img src="image/3337288@0.png" width="43" style="max-width: 100%;"> 
 </h2>
 </div>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morbius00&theme=juicyfresh" alt="morbius00" /></a> 
 </p>
-<img align="left" alt="Coding"  width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/97f8c592-d092-4f7f-8c2c-81ef6a8cca0e/dfrx5e0-89e454a5-3ab2-42d3-8491-92c5056ff68e.jpg/v1/fill/w_730,h_1095,q_70,strp/anime_kid_programming_by_eranium1_dfrx5e0-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzA3MiIsInBhdGgiOiJcL2ZcLzk3ZjhjNTkyLWQwOTItNGY3Zi04YzJjLTgxZWY2YThjY2EwZVwvZGZyeDVlMC04OWU0NTRhNS0zYWIyLTQyZDMtODQ5MS05MmM1MDU2ZmY2OGUuanBnIiwid2lkdGgiOiI8PTIwNDgifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mmmjpv-fJa7Qmr00p-nZU3R9laMF5O6FQ3Dn6rHgXv0"/>
+<img align="left" alt="Coding"  width="300" height="450" src="image/anime-boy-computer-esyy87ljsyvmef6l.png"/>
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```csharp
